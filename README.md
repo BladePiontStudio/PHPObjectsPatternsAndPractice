@@ -1,1 +1,2 @@
 # PHPObjectsPatternsAndPractice
+本仓库用于个人做面向对象和设计模式的练习
